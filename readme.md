@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Vaseem Cholakkan</h1>
+<h3 align="center">A passionate Django, React Full Stack Developer and Tech Enthusiast</h3>
 🔭 I’m currently working on Accord - chat app<br>🌱 I’m currently learning Nextjs<br>
 
 
